@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="module_name">NotifLiftFix</string>
+    <string name="module_description">使锁屏堆叠通知能显示在屏下指纹图标下方，并优化可能的交互冲突</string>
+
+
+</resources>
