@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="module_name">NotifLiftFix</string>
-    <string name="module_description">使锁屏堆叠通知能显示在屏下指纹图标下方，并优化可能的交互冲突</string>
+    <string name="module_description">在HyperOS4beta上允许锁屏堆叠通知与屏下指纹识别图标重叠，并优化可能的交互冲突，以解决堆叠通知过于靠上的问题</string>
 
 
 </resources>
